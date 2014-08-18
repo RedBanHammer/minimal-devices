@@ -67,9 +67,9 @@
   width: 50%;
   height: 83%;
   position: absolute;
-  top: 0.625em;
-  right: 0.625em;
-  border-radius: 0 3.125em 0 0;
+  top: 0.4em;
+  right: 0.37em;
+  border-radius: 0 3.4em 0 0;
   z-index: 1;
 }
 
@@ -113,10 +113,10 @@
 }
 
 .md-white-device .md-front-camera, .md-white-device .md-top-speaker, .md-white-device .md-home-button {
-  background: -webkit-linear-gradient(#d0d0c5, #eeeeea);
-  background: -moz-linear-gradient(#d0d0c5, #eeeeea);
-  background: -o-linear-gradient(#d0d0c5, #eeeeea);
-  background: linear-gradient(#d0d0c5, #eeeeea);
+  background: -webkit-linear-gradient(#EBEBE5, #FAFAF7);
+  background: -moz-linear-gradient(#EBEBE5, #FAFAF7);
+  background: -o-linear-gradient(#EBEBE5, #FAFAF7);
+  background: linear-gradient(#EBEBE5, #FAFAF7);
 }
 
 .md-black-device .md-front-camera, .md-black-device .md-top-speaker, .md-black-device .md-home-button {
@@ -141,8 +141,8 @@
 }
 
 .md-white-device .md-body {
-  background-color: #ebebe4;
-  border-color: #f1f2eb;
+  background-color: #FAFAF7;
+  border-color: #F3F3F0;
 }
 .md-white-device .md-buttons {
   background-color: #ebebe4;
